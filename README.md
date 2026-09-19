@@ -65,7 +65,7 @@ My engineering interests are centered around:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -93,7 +93,7 @@ My engineering interests are centered around:
 
 ---
 
-## 🤖 AI / ML Expertise
+##  AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -140,7 +140,7 @@ An AI-assisted music application designed to detect a user's emotional state and
 ---
 
 <details>
-<summary><strong>📊 Data Analytics Using Python</strong></summary>
+<summary><strong> Data Analytics Using Python</strong></summary>
 
 <br/>
 
@@ -219,19 +219,19 @@ Completed a **60-day intensive field training program** focused on practical dat
 
 | Recognition | Details |
 |---|---|
-| 🎓 Academic Performance | **83.00% aggregate** in Diploma in Computer Engineering |
-| 📈 Final Semester | **84.59%** in final semester |
-| 🏅 Academic Distinction | Diploma completed with **First Class with Distinction** |
-| 💻 Technical Project | Built Flask interface for a CNN-based emotion detection music application |
-| 📊 Practical Training | Completed **60-day Data Analytics Using Python** field training |
-| 🧩 Team Leadership | Coordinated project management and led final technical presentation |
-| 🗣️ Communication | Presented technical system architecture and project results to faculty evaluators |
+|  Academic Performance | **83.00% aggregate** in Diploma in Computer Engineering |
+|  Final Semester | **84.59%** in final semester |
+|  Academic Distinction | Diploma completed with **First Class with Distinction** |
+|  Technical Project | Built Flask interface for a CNN-based emotion detection music application |
+|  Practical Training | Completed **60-day Data Analytics Using Python** field training |
+|  Team Leadership | Coordinated project management and led final technical presentation |
+|  Communication | Presented technical system architecture and project results to faculty evaluators |
 
 </div>
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 ### AWS
 
@@ -259,7 +259,7 @@ Completed a **60-day intensive field training program** focused on practical dat
 
 ---
 
-## 💻 Coding Profiles
+##  Coding Profiles
 
 <div align="center">
 
@@ -283,7 +283,7 @@ Completed a **60-day intensive field training program** focused on practical dat
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -303,7 +303,7 @@ Completed a **60-day intensive field training program** focused on practical dat
 
 ---
 
-## 🏅 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -313,7 +313,7 @@ Completed a **60-day intensive field training program** focused on practical dat
 
 ---
 
-## 📊 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -323,7 +323,7 @@ Completed a **60-day intensive field training program** focused on practical dat
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -333,7 +333,7 @@ Completed a **60-day intensive field training program** focused on practical dat
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```yaml
 Learning:
