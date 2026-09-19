@@ -34,7 +34,7 @@
 
 ---
 
-## 👨‍💻 About
+##  About
 
 I am a **Computer Engineering student and aspiring Software Developer** focused on building practical, scalable, and user-oriented software solutions.
 
@@ -50,7 +50,7 @@ My engineering interests are centered around:
 - **Data Engineering & Analytics** — Python, NumPy, Pandas, data cleaning and analysis
 - **Product Engineering** — transforming real-world problems into practical software products
 
-### 🎯 Open To
+###  Open To
 
 - Software Development Internships
 - Full-Stack Development Opportunities
@@ -108,7 +108,7 @@ My engineering interests are centered around:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details>
 <summary><strong>🎵 Real-Time Emotion Based Music Player</strong></summary>
@@ -167,7 +167,7 @@ A practical data analytics training project focused on collecting, cleaning and 
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Software Development / Technical Project Experience
 
